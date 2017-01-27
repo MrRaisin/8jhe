@@ -1,0 +1,27 @@
+			       body {background: linear-gradient(#00B233,#B20000);
+					font-family: Helvetica, Arial, sans-serif;
+					border: 5px solid blue;
+				   }
+			h1	   {font-size: 80px;
+				   color: white;
+				   text-align: center;
+				   position: relative;
+				   top: 200px;
+				   }
+			img {
+				display: block;
+				margin: auto;
+				position: relative;
+				top: 180px;
+			}
+			
+			a {
+				text-decoration: none;
+				font-size: 25px;
+				color: purple;
+				background-color: #00B233;
+				padding: 5px;
+				border-radius: 5px;
+				position: relative;
+				top: 230px;
+			}

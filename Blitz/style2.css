@@ -1,0 +1,21 @@
+
+			       body {background: linear-gradient(green, blue);
+					font-family: Helvetica, Arial, sans-serif;
+				   }
+			h1	   {font-size: 300%;
+				   color: white;
+				   background-color: blue;
+				   }
+			li, p	  {font-size: 25pt;
+				  color: black;
+				  margin: 75px;
+				  }
+			
+			a {
+				text-decoration: none;
+				font-size: 25px;
+				color: purple;
+				background-color: blue;
+				padding: 5px;
+				border-radius: 5px;
+			}

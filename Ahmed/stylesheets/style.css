@@ -1,0 +1,103 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: lightgray;
+}
+
+/* Header */
+
+#header {
+    text-align: center;
+    background-color: aqua;
+    padding: 5px;
+    font-size: 50px;
+    color: white;
+}
+
+/* Navigation */
+
+#nav {
+	float: left;
+	width: 100%;
+	font-size: 20px;
+	border-bottom: 5px solid #AAEEEE;
+	}
+
+#nav ul {
+	margin:0;
+	padding:10px 10px 0 50px;
+	}
+
+#nav li {
+	display:inline;
+	margin:0;
+	padding:0;
+	}
+
+#nav a {
+    text-decoration: none;
+    background-color: #AAEEEE;
+    padding: 5px;
+    color: floralwhite;
+}
+
+a.selected {
+    color: black !important;
+    border-bottom: 5px solid black !important;
+}
+
+/* Fact File Content */
+
+#header h1 {
+	font-size: 50px;
+}
+
+
+#content {
+    clear: both;
+    background-color: white;
+    text-align: center;
+	border-bottom: 5px solid #77EEEE;
+}
+
+p.intro {
+    font-size: 20px;
+}
+
+#content ul {
+    border: 1px solid #77EEEE;
+    background: lightgray;
+    width: 800px;
+}
+
+#footer h1 {
+    background-color: #999;
+    text-align: right;
+    padding: 5px;
+    font-size: 30px;
+}
+
+/* Landmarks Content */
+
+.landmarks {
+    background-color: lightgray;
+    border: 1px solid #77EEEE;
+    width: 800px;
+}
+
+.landmarks h4 {
+    font-size: 30px;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border: 1px solid #AAEEEE;
+}
+
+/* Goverment Content */
+
+.goverment {
+    background-color: lightgray;
+    border: 1px solid #77EEEE;
+    width: 800px;
+}
